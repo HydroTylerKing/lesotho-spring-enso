@@ -1,0 +1,5 @@
+spring_id,date,flow_lps,status
+SP001,2016-02-15,0.42,flowing
+SP001,2016-08-20,0.1,reduced
+SP002,2016-02-16,,flowing
+SP002,2016-08-21,,dry

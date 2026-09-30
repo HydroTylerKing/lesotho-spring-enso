@@ -1,0 +1,25 @@
+name: springs-enso
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - gdal
+  - rasterio
+  - geopandas
+  - pyogrio
+  - shapely
+  - pyproj
+  - numba
+  - openpyxl
+  - pip
+  - pip:
+      - pysheds
+      - pystac-client
+      - planetary-computer
+      - streamlit
+      - streamlit-folium
+      - folium
+      - plotly

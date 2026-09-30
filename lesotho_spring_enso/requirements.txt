@@ -1,0 +1,16 @@
+pysheds>=0.4
+rasterio>=1.3
+geopandas>=0.14
+pyogrio>=0.7
+shapely>=2.0
+pyproj>=3.6
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+pystac-client>=0.7
+planetary-computer>=1.0
+streamlit>=1.35
+streamlit-folium>=0.20
+folium>=0.15
+plotly>=5.18
+openpyxl>=3.1
